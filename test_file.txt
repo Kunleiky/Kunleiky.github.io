@@ -1,0 +1,3 @@
+This attempt to create a Github.io web page has rejuvenated my interest in learning more about Git. 
+Git has been found to be useful across board
+Things we lve to see!
