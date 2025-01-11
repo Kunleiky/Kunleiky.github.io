@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0078D4;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #0078D4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My GitHub Page</h1>
+    </header>
+    <main>
+        <h2>About Me</h2>
+        <p>Hi! I'm [Your Name], and this is my personal website hosted with GitHub Pages. I love coding, learning, and sharing knowledge.</p>
+
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Project 1</a>: Description of your project.</li>
+            <li><a href="#">Project 2</a>: Another awesome project.</li>
+        </ul>
+
+        <h2>Contact</h2>
+        <p>Feel free to reach out via <a href="mailto:youremail@example.com">email</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
